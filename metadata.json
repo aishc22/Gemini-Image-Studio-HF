@@ -1,0 +1,5 @@
+{
+  "name": "Gemini-Image-Studio",
+  "description": "A state-of-the-art tool to generate new images from text or edit existing ones, powered by Gemini.",
+  "requestFramePermissions": []
+}
