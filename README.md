@@ -7,14 +7,13 @@ This nodejs proxy server lets you run your AI Studio Gemini application unmodifi
 > [!warning]
 To proceed, you need to add your Gemini API key. Your API key is stored only for the duration of your session and will be lost when you reload or exit the page. It will not be shared or exposed anywhere.
 
-<img width="1920" height="913" alt="Screenshot 2025-10-07 at 19-39-44 Gemini Image Studio - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/1fc1d450-14ac-4fd2-aeea-b81c8cd7defc" />
-<img width="1920" height="1030" alt="brSEP_AyMb_2unV5MN3x0" src="https://github.com/user-attachments/assets/252cf942-3c6d-441d-b8fe-26269822715d" />
-<img width="1920" height="1068" alt="9j1IOk93TqIERjoSAOzfW" src="https://github.com/user-attachments/assets/de370e76-8cc4-4ad4-89a1-d86d9b309589" />
-<img width="1920" height="1030" alt="7aziQkY7EgGK03Ya9hzj9" src="https://github.com/user-attachments/assets/dd139afc-196e-44b5-9313-0017b461b716" />
-<img width="1920" height="1071" alt="F0kGV0_-22UB40tqYzOpG" src="https://github.com/user-attachments/assets/0f43c68f-a6f3-4b25-997e-c3d473338993" />
-<img width="1920" height="1381" alt="HXwM8diiugfll90Fz32OD" src="https://github.com/user-attachments/assets/b5e9a912-30f4-49ff-bf10-766c4f027645" />
-<img width="1920" height="1381" alt="HOpfNij2rlBrV-aeUPquB" src="https://github.com/user-attachments/assets/a0af876f-1b99-4e25-a31e-1f7716e01ed4" />
-
+<img width="1920" height="851" alt="Screenshot 2025-10-07 at 20-01-34 Gemini Image Studio - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/db08db8e-0821-4647-a32e-580faf1ed00b" />
+<img width="1920" height="1381" alt="HXwM8diiugfll90Fz32OD" src="https://github.com/user-attachments/assets/91befcac-d0d6-4c46-9272-67bbdae5e6af" />
+<img width="1920" height="1381" alt="HOpfNij2rlBrV-aeUPquB" src="https://github.com/user-attachments/assets/ade87fee-3ca6-4bf2-be07-c1bdc1f7fc1f" />
+<img width="1920" height="1071" alt="F0kGV0_-22UB40tqYzOpG" src="https://github.com/user-attachments/assets/a6809ae9-ae6b-4249-901d-9c19a07308ea" />
+<img width="1920" height="1030" alt="brSEP_AyMb_2unV5MN3x0" src="https://github.com/user-attachments/assets/61bd29f3-de93-4698-bf72-6a3396ea56d5" />
+<img width="1920" height="1068" alt="9j1IOk93TqIERjoSAOzfW" src="https://github.com/user-attachments/assets/3ec9020a-d1af-43cb-b296-54d658154971" />
+<img width="1920" height="1030" alt="7aziQkY7EgGK03Ya9hzj9" src="https://github.com/user-attachments/assets/3351ee8e-5f27-4e0b-961c-c43365baef17" />
 
 ---
 
